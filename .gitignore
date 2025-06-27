@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Model files and large binaries (optional)
+*.pkl
+*.joblib
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# Streamlit logs
+.streamlit/
+
+# OS and editor junk
+.DS_Store
+*.swp
